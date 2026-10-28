@@ -1,7 +1,7 @@
 # 🎯 Data Science Capstone Project — Supervised Machine Learning & Predictive Modeling
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92400E,50:D97706,100:FCD34D&customColorList=92400E,D97706,FCD34D&height=220&section=header&text=Data%20Science%20Capstone%20Project&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Supervised%20Machine%20Learning%2C%20Feature%20Engineering%20%26%20Inference&descSize=15&descAlignY=60&descAlign=50" width="100%" alt="Data Science Capstone Project Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92400E,50:D97706,100:FCD34D&customColorList=92400E,D97706,FCD34D&height=220&section=header&text=Data%20Science%20Capstone%20Project&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Supervised%20Machine%20Learning%2C%20Feature%20Engineering%20and%20Inference&descSize=15&descAlignY=60&descAlign=50" width="100%" alt="Data Science Capstone Project Banner" />
 </p>
 
 <p align="center">
